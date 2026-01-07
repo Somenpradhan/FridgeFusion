@@ -3,14 +3,14 @@
 
 ---
 
-## Overview
+## 🌟 Overview
 Fridge Fusion AI is a web-based application that aims to cut down food waste and make daily cooking easier. It uses **Artificial Intelligence** to help users decide what to cook based on the ingredients they already have by utilizing **Computer Vision** and **Large Language Models (LLMs)**.
 
 Users can upload a picture of their open fridge or enter ingredients manually. The system then generates **easy-to-follow, personalized recipes** tailored to dietary preferences, available cooking time, and user age. This project showcases a practical AI solution focused on sustainability, accessibility, and personalization.
 
 ---
 
-## Features
+## 🔥 Features
 
 ### Ingredient Detection
 - Upload a picture of your open fridge
