@@ -184,7 +184,7 @@ Contributions are welcome!
 
 ## License
 
-This project is created for hackathon and educational purposes.
+This project is created for GDG Hacathon with ❤️ from Nitrous
 
 ---
 
