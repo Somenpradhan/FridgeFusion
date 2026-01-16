@@ -64,7 +64,7 @@ The AI adjusts recipe steps, complexity, and prep time as needed.
 
 ## Technologies Used
 - **Frontend:** React / Next.js  
-- **Backend:** Node.js / Python (FastAPI / Flask)  
+- **Backend:** Node.js / Python (FastAPI)  
 - **AI & ML:** Vision API, OpenAI / Gemini LLM  
 - **Image Processing:** OpenCV  
 - **Development Tools:** VS Code, Jupyter Notebook  
